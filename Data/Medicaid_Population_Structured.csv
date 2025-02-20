@@ -1,0 +1,58 @@
+Gender,Age Group,Medicaid Status,Population,Margin of Error
+Total,Total,Total,329987997,20494
+Male,Total,Total,162207326,37874
+Male,Under 6 years,Total,11312928,36107
+Male,Under 6 years,With Medicaid,4760607,44208
+Male,Under 6 years,No Medicaid,6552321,41784
+Male,6 to 18 years,Total,28137357,46697
+Male,6 to 18 years,With Medicaid,10618954,79633
+Male,6 to 18 years,No Medicaid,17518403,84747
+Male,19 to 25 years,Total,14880694,47923
+Male,19 to 25 years,With Medicaid,2574513,35337
+Male,19 to 25 years,No Medicaid,12306181,53950
+Male,26 to 34 years,Total,19894372,38597
+Male,26 to 34 years,With Medicaid,2823490,33961
+Male,26 to 34 years,No Medicaid,17070882,45496
+Male,35 to 44 years,Total,21782512,26901
+Male,35 to 44 years,With Medicaid,2867737,30577
+Male,35 to 44 years,No Medicaid,18914775,39315
+Male,45 to 54 years,Total,19781763,24833
+Male,45 to 54 years,With Medicaid,2430216,26002
+Male,45 to 54 years,No Medicaid,17351547,37859
+Male,55 to 64 years,Total,20172934,14610
+Male,55 to 64 years,With Medicaid,2967506,26515
+Male,55 to 64 years,No Medicaid,17205428,30129
+Male,65 to 74 years,Total,16154486,15431
+Male,65 to 74 years,With Medicaid,2099674,22915
+Male,65 to 74 years,No Medicaid,14054812,27621
+Male,75 years and over,Total,10090280,12528
+Male,75 years and over,With Medicaid,1320400,16652
+Male,75 years and over,No Medicaid,8769880,19490
+Female,Total,Total,167780671,36399
+Female,Under 6 years,Total,10801610,31995
+Female,Under 6 years,With Medicaid,4551576,43528
+Female,Under 6 years,No Medicaid,6250034,44402
+Female,6 to 18 years,Total,26805348,38193
+Female,6 to 18 years,With Medicaid,10085376,76362
+Female,6 to 18 years,No Medicaid,16719972,70218
+Female,19 to 25 years,Total,14667380,40828
+Female,19 to 25 years,With Medicaid,3223634,37962
+Female,19 to 25 years,No Medicaid,11443746,43547
+Female,26 to 34 years,Total,20161692,36585
+Female,26 to 34 years,With Medicaid,4380720,38715
+Female,26 to 34 years,No Medicaid,15780972,48893
+Female,35 to 44 years,Total,22123033,23509
+Female,35 to 44 years,With Medicaid,4062107,38559
+Female,35 to 44 years,No Medicaid,18060926,38207
+Female,45 to 54 years,Total,20268340,20250
+Female,45 to 54 years,With Medicaid,3069882,26863
+Female,45 to 54 years,No Medicaid,17198458,36610
+Female,55 to 64 years,Total,21306593,15305
+Female,55 to 64 years,With Medicaid,3550000,31323
+Female,55 to 64 years,No Medicaid,17756593,37626
+Female,65 to 74 years,Total,18248577,18537
+Female,65 to 74 years,With Medicaid,2708575,23970
+Female,65 to 74 years,No Medicaid,15540002,29748
+Female,75 years and over,Total,13398098,11350
+Female,75 years and over,With Medicaid,2232971,23765
+Female,75 years and over,No Medicaid,11165127,22754
